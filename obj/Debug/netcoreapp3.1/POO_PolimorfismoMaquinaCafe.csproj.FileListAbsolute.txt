@@ -1,0 +1,13 @@
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\bin\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.exe
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\bin\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.deps.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\bin\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.runtimeconfig.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\bin\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.runtimeconfig.dev.json
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\bin\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\bin\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.csprojAssemblyReference.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.AssemblyInfo.cs
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.dll
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.pdb
+C:\Users\mrodr.LAPTOP-DFNK1JF6\Documents\POO_PolimorfismoMaquinaCafe\obj\Debug\netcoreapp3.1\POO_PolimorfismoMaquinaCafe.genruntimeconfig.cache

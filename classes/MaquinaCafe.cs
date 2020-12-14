@@ -5,18 +5,17 @@ namespace POO_PolimorfismoMaquinaCafe.classes
     public class MaquinaCafe
     {
         public int acucarDisponivel = 1000;
-
         public int quantacucar;
 
-
-        public void FazerCafe(int acucarDisponivel){
-            Console.WriteLine("Digite a quantidade de açucar desejada: \nObs: Em gramas");
-            quantacucar = int.Parse(Console.ReadLine());
-            
-
+        public void FazerCafe(int acucarDisponivel, int quantacucar){
             if (quantacucar > acucarDisponivel)
             {
-                Console.WriteLine("Quantidade superior a disponível na máquina. Chamar o técnico para encher reservatório de Açúcar\nAdicionando 10g de açucar");
+                Console.WriteLine("Quantidade superior a disponível na máquina. Chamar o técnico para encher reservatório de Açúcar");
+                quantacucar = 0;
+            }if (acucarDisponivel == 0)
+            {
+                Console.WriteLine("Máquina sem açucar! Fazendo café sem açucar...");
+                quantacucar = 0;
             }
             acucarDisponivel =- quantacucar;
             Console.WriteLine("Fazendo Café...");
@@ -24,7 +23,6 @@ namespace POO_PolimorfismoMaquinaCafe.classes
         }
 
         public void FazerCafe(){
-        quantacucar = 10;
         Console.WriteLine("Fazendo Café...");
 
 

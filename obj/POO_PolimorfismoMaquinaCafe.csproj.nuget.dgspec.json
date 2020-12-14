@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj": {}
+    "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj": {
+    "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj",
+        "projectUniqueName": "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj",
         "projectName": "POO_PolimorfismoMaquinaCafe",
-        "projectPath": "C:\\Users\\dev\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Documents\\POO_PolimorfismoMaquinaCafe\\obj\\",
+        "projectPath": "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\Documents\\POO_PolimorfismoMaquinaCafe\\POO_PolimorfismoMaquinaCafe.csproj",
+        "packagesPath": "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\Documents\\POO_PolimorfismoMaquinaCafe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mrodr.LAPTOP-DFNK1JF6\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
